@@ -1,4 +1,4 @@
 a txt file for adm
-welcome
+
 we are 68 students
 application development and maintanence is our core paper
